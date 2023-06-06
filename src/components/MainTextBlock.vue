@@ -12,7 +12,7 @@ export default {
 
 <style lang="scss">
 .vm-textBlock {
-    color: #1E1E1E;
+    color: $grey-dark;
     font-size: 12px;
     font-family: 'Roboto', sans-serif;
 

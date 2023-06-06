@@ -86,7 +86,7 @@ export default {
 
         span {
             height: 3px;
-            background-color: #1E1E1E;
+            background-color: $grey-dark;
             border-radius: 2px;
 
             &:nth-of-type(1) {
@@ -128,7 +128,7 @@ export default {
             a {
                 font-size: 20px;
                 display: block;
-                color: #1E1E1E;
+                color: $grey-dark;
                 text-decoration: none;
                 height: 48px;
                 display: flex;
@@ -171,7 +171,7 @@ export default {
                         display: block;
                         height: 2px;
                         width: 0px;
-                        background-color: #1E1E1E;
+                        background-color: $grey-dark;
                         position: absolute;
                         bottom: 4px;
                         left: 0;
